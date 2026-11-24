@@ -1,0 +1,8 @@
+dist/
+dist/*
+dist/WeightCheckerCS/
+dist/WeightCheckerCS/*
+__pycache__/
+__pycache__/*
+/tools/out/
+

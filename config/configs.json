@@ -1,0 +1,162 @@
+{
+  "9-pack-270mm": {
+    "sku": "9-pack-270mm",
+    "pad_size": "270mm",
+    "product_pad_num": 9,
+    "initial_center_g": 67.35,
+    "physical_min_g": 40.0,
+    "physical_max_g": 100.0,
+    "safety_lower_g": 63.1,
+    "pad_weight_g": 7.2,
+    "center_window_n": 5,
+    "center_trim_n": 1,
+    "outlier_reject_g": 5.4,
+    "outlier_relock_count": 2,
+    "half_width_g": 3.7,
+    "min_window_width_g": 7.4,
+    "max_window_width_g": 8.2,
+    "up_max_shift_g": 0.0,
+    "down_max_shift_g": 0.0,
+    "fast_window_k": 3,
+    "trend_up_threshold_g": 1.0,
+    "trend_down_threshold_g": 1.5,
+    "stop_reset_seconds": 1800.0,
+    "invalid_alarm_count": 3,
+    "relock_max_offset_g": 5.4,
+    "window_offset_g": 0.0,
+    "reject_output": {
+      "active_pins": [
+        2
+      ],
+      "active_ms": 500
+    }
+  },
+  "10-pack-270mm": {
+    "sku": "10-pack-270mm",
+    "pad_size": "270mm",
+    "product_pad_num": 10,
+    "initial_center_g": 74.3,
+    "physical_min_g": 40.0,
+    "physical_max_g": 100.0,
+    "safety_lower_g": 69.3,
+    "pad_weight_g": 7.2,
+    "center_window_n": 7,
+    "center_trim_n": 1,
+    "outlier_reject_g": 5.4,
+    "outlier_relock_count": 2,
+    "half_width_g": 3.7,
+    "min_window_width_g": 7.4,
+    "max_window_width_g": 8.2,
+    "up_max_shift_g": 0.0,
+    "down_max_shift_g": 0.0,
+    "fast_window_k": 3,
+    "trend_up_threshold_g": 1.0,
+    "trend_down_threshold_g": 1.5,
+    "stop_reset_seconds": 1800.0,
+    "invalid_alarm_count": 3,
+    "relock_max_offset_g": 5.4,
+    "window_offset_g": -0.7,
+    "reject_output": {
+      "active_pins": [
+        2
+      ],
+      "active_ms": 500
+    }
+  },
+  "16-pack-270mm": {
+    "sku": "16-pack-270mm",
+    "pad_size": "270mm",
+    "product_pad_num": 16,
+    "initial_center_g": 113.6,
+    "physical_min_g": 70.0,
+    "physical_max_g": 150.0,
+    "safety_lower_g": 109.1,
+    "pad_weight_g": 7.2,
+    "center_window_n": 7,
+    "center_trim_n": 1,
+    "outlier_reject_g": 5.4,
+    "outlier_relock_count": 2,
+    "half_width_g": 4.3,
+    "min_window_width_g": 7.4,
+    "max_window_width_g": 8.6,
+    "up_max_shift_g": 0.0,
+    "down_max_shift_g": 0.0,
+    "fast_window_k": 3,
+    "trend_up_threshold_g": 1.0,
+    "trend_down_threshold_g": 1.5,
+    "stop_reset_seconds": 1800.0,
+    "invalid_alarm_count": 3,
+    "relock_max_offset_g": 0.0,
+    "window_offset_g": 0.5,
+    "reject_output": {
+      "active_pins": [
+        2
+      ],
+      "active_ms": 500
+    }
+  },
+  "32-pack-270mm": {
+    "sku": "32-pack-270mm",
+    "pad_size": "270mm",
+    "product_pad_num": 32,
+    "initial_center_g": 216.7,
+    "physical_min_g": 150.0,
+    "physical_max_g": 300.0,
+    "safety_lower_g": 208.2,
+    "pad_weight_g": 7.2,
+    "center_window_n": 7,
+    "center_trim_n": 1,
+    "outlier_reject_g": 5.4,
+    "outlier_relock_count": 3,
+    "half_width_g": 4.5,
+    "min_window_width_g": 7.4,
+    "max_window_width_g": 9.0,
+    "up_max_shift_g": 1.2,
+    "down_max_shift_g": 1.5,
+    "fast_window_k": 3,
+    "trend_up_threshold_g": 1.0,
+    "trend_down_threshold_g": 1.5,
+    "stop_reset_seconds": 1800.0,
+    "invalid_alarm_count": 3,
+    "relock_max_offset_g": 0.0,
+    "window_offset_g": 0.0,
+    "reject_output": {
+      "active_pins": [
+        2
+      ],
+      "active_ms": 500
+    }
+  },
+  "36-pack-240mm": {
+    "sku": "36-pack-240mm",
+    "pad_size": "240mm",
+    "product_pad_num": 36,
+    "initial_center_g": 213.9,
+    "physical_min_g": 150.0,
+    "physical_max_g": 300.0,
+    "safety_lower_g": 206.15,
+    "pad_weight_g": 7.2,
+    "center_window_n": 7,
+    "center_trim_n": 1,
+    "outlier_reject_g": 5.4,
+    "outlier_relock_count": 2,
+    "half_width_g": 3.7,
+    "min_window_width_g": 7.4,
+    "max_window_width_g": 8.2,
+    "up_max_shift_g": 0.0,
+    "down_max_shift_g": 1.2,
+    "fast_window_k": 3,
+    "trend_up_threshold_g": 1.5,
+    "trend_down_threshold_g": 2.0,
+    "stop_reset_seconds": 1800.0,
+    "invalid_alarm_count": 3,
+    "relock_max_offset_g": 7.2,
+    "window_offset_g": 0.5,
+    "reject_output": {
+      "active_pins": [
+        2
+      ],
+      "active_ms": 500
+    }
+  }
+}
